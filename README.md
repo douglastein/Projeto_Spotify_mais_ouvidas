@@ -1,3 +1,3 @@
-# Projeto_Spotify_mais_ouvidas
+# Projeto Spotify mais ouvidas
 O interesse maior deste projeto é identificar como é o perfil das músicas mais populares no Spotify. O banco de dados utilizado para as análises contém informações sobre o teor de dançabilidade, de emocional, de energia, de acústica, de instrumentalidade, de vivacidade e de vocal das canções. Possui informações também de batidas por minuto e presença em playlists e charts não só do Spotify, mas também de outros aplicativos de música.
 Ao decorrer da análise descritiva vão ficando claras as relações fracas entre o número de streams e as características das músicas, impossibilitando o que se estava planejando ao começar o projeto, que era implementar um modelo estatístico e entender como de fato cada uma das características influência na popularidade das músicas disponíveis no aplicativp Spotify.
